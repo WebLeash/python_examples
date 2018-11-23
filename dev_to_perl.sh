@@ -23,7 +23,7 @@ get_serial_bios_1()
 	URL="${url_http_test}"
 
 #	echo ">$URL<****\n _h4=$_h4"
-	#response=$(curl -v -i --user nXs341:FreeSpeach123! -H $app_type -H ${cont_type} -X "$URL")
+	#response=$(curl -v -i --user xxsxxxxxxxxxxxxxxxxxx -H $app_type -H ${cont_type} -X "$URL")
 	#responese=$(cat pretend_1.sh)
 	#_bios=$(cat pretend_1.sh |grep -i "serial" |cut -d'"' -f4)
 
