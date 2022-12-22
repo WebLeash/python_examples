@@ -6,7 +6,7 @@ re = requests.get('https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/phot
 json_string = json.dumps(re.content)
 
 print (re.status_code)
-#print (re.content)
+#print (re.content) ##
 #print (json_string)
 
 da = json.loads(json_string)
