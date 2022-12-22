@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
-use strict;
-use warnings;
+
 
 my @arr=`head -1 input.csv`; 
 
